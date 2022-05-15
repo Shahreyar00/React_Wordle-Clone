@@ -5,7 +5,7 @@ const Modal = ({ isCorrect, solution, turn }) => {
         <div className="modal">
             {isCorrect && (
                 <div>
-                    <h1>You Win!</h1>
+                    <h2>You Win!</h2>
                     <p className="solution">{solution}</p>
                     <p>You found the solution in {turn} guesses :)</p>
                 </div>

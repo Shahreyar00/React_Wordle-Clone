@@ -9,19 +9,19 @@ This repo contains code for wordle clone. Instead of 1 chance a day, you can pla
 
 
 #### All the words right now (to test the game):
-"ninja"
-"spade"
-"pools"
-"drive"
-"relax"
-"times"
-"train"
-"jeans"
-"pours"
-"cores"
-"blame"
-"banks"
-"phone"
-"bling"
-"coins"
-"hello"
+    "abuse",
+    "adult",
+    "beach",
+    "drive",
+    "relax",
+    "times",
+    "train",
+    "jeans",
+    "enemy",
+    "class",
+    "blame",
+    "image",
+    "phone",
+    "music",
+    "queen",
+    "hello",
